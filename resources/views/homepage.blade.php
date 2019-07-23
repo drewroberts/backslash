@@ -98,7 +98,7 @@
 
 		.container {
 			position: absolute;
-			top: 100px;
+			top: 50px;
 			bottom: 0;
 			left: 0;
 			right: 0;
@@ -110,6 +110,10 @@
 			text-align: center;
 			width: 100%;
 			margin: 0 10px 0 10px;
+		}
+
+		p {
+			margin: 50px 0 50px 0;
 		}
 
 		a {
